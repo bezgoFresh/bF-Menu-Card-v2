@@ -1,0 +1,101 @@
+{
+    "fish_data": {
+        "അയല": {
+            "english": "Mackerel",
+            "manglish": "Ayala"
+        },
+        "ചെമ്മീൻ": {
+            "english": "Prawns",
+            "manglish": "Chemmeen"
+        },
+        "ചെമ്പല്ലി": {
+            "english": "Bulls Eye",
+            "manglish": "Chembally"
+        },
+        "കിളിമീൻ": {
+            "english": "Pink Perch",
+            "manglish": "Kilimeen"
+        },
+        "മുള്ളൻ": {
+            "english": "Mullet",
+            "manglish": "Mullan"
+        },
+        "മാന്തൽ": {
+            "english": "Sole Fish",
+            "manglish": "Manthal"
+        },
+        "മത്തി": {
+            "english": "Sardine",
+            "manglish": "Mathi"
+        },
+        "വാള": {
+            "english": "Ruben",
+            "manglish": "Vala"
+        },
+        "കരിമീൻ": {
+            "english": "Pearlspot",
+            "manglish": "Karimeen"
+        },
+        "വെലമീൻ": {
+            "english": "Emperor",
+            "manglish": "Velameen"
+        },
+        "സിലോപ്യ": {
+            "english": "Tilapia",
+            "manglish": "Silopya"
+        },
+        "കട്ടള": {
+            "english": "Carp",
+            "manglish": "Kattala"
+        },
+        "റൂഹ്": {
+            "english": "Labeo",
+            "manglish": "Rooh"
+        },
+        "ആവോലി": {
+            "english": "Pomfret",
+            "manglish": "Avoli"
+        },
+        "കേര": {
+            "english": "Kera (Meat)",
+            "manglish": "Kera"
+        },
+        "ഓല നെയ്മ്മീൻ": {
+            "english": "Sail Fish",
+            "manglish": "Ola Neymeen"
+        },
+        "സ്രാവ്": {
+            "english": "Shark",
+            "manglish": "Sravu"
+        },
+        "ഓട്ടി മോദ": {
+            "english": "Cobia",
+            "manglish": "Ooti modha"
+        },
+        "വറ്റ": {
+            "english": "Trevally",
+            "manglish": "Vatta"
+        },
+        "ഹാമൂർ": {
+            "english": "Hamoor",
+            "manglish": "Hamoor"
+        },
+        "റെഡ് സ്നാപ്പർ": {
+            "english": "Red Snapper",
+            "manglish": "Red Snapper"
+        },
+        "കുന്തൽ": {
+            "english": "Squid",
+            "manglish": "koonthal"
+        },
+        "ചൂര": {
+            "english": "Red Tuna",
+            "manglish": "choora"
+        }
+    },
+    "fish_categories": [
+        "Sea Water Fish",
+        "Fresh Water Fish",
+        "Meat Only"
+    ]
+}
